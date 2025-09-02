@@ -35,7 +35,7 @@
 
 ---
 
-### 2. User Instructions:
+### 2. Usage steps:
 
 **2.1** Ensure the server program, computer program, and mobile program are all connected to the network.
 
