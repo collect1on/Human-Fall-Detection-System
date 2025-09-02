@@ -38,13 +38,21 @@
 ### 2. User Instructions:
 
 **2.1** Ensure the server program, computer program, and mobile program are all connected to the network.
+
 **2.2** Run the server program.
+
 **2.3** Run the computer program and the mobile program.
+
 **2.4** Use the computer program to connect to the mobile device and view the pairing code.
+
 **2.5** On the mobile program, use the “connect to computer” function and enter the pairing code to pair with the computer.
+
 **2.6** Use the human fall detection function in the computer program.
+
 **2.7** In the computer program, use the “view analysis results” function to check recorded fall detection analysis results.
+
 **2.8** On the mobile program, click the refresh button to sync and view the latest fall detection analysis results from the computer program.
+
 
 
 ---
