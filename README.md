@@ -47,4 +47,5 @@
 **2.8** On the mobile program, click the refresh button to sync and view the latest fall detection analysis results from the computer program.
 
 
+---
 
