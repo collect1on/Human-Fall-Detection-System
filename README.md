@@ -1,3 +1,25 @@
+### Project Showcase
+
+1. **Main Screen and Analysis History**  
+![The main screen also serves as the analysis history](https://github.com/collect1on/Human-Fall-Detection-System/blob/main/folder_for_readme_picture/The%20main%20screen%20also%20serves%20as%20the%20analysis%20history.png)
+
+2. **Button Interaction Effects and About Us**  
+![Button Interaction Effects and about us](https://github.com/collect1on/Human-Fall-Detection-System/blob/main/folder_for_readme_picture/Button%20Interaction%20Effects%20and%20about%20us.jpg)
+
+3. **Human Fall Detection and FAQ**  
+![Human Fall Detection and FAQ](https://github.com/collect1on/Human-Fall-Detection-System/blob/main/folder_for_readme_picture/Human%20Fall%20Detection%20and%20FAQ.png)
+
+4. **Real-time Recording Fall Analysis**  
+![Real-time recording Fall Analysis](https://github.com/collect1on/Human-Fall-Detection-System/blob/main/folder_for_readme_picture/Real-time%20recording%20Fall%20Analysis.jpg)
+
+5. **Check Analysis Results**  
+![Check the analysis results](https://github.com/collect1on/Human-Fall-Detection-System/blob/main/folder_for_readme_picture/Check%20the%20analysis%20results.jpg)
+
+---
+
+
+
+
 ### 1. Configuration Process:
 
 **1.1** Place the **Downloads** folder under the path `C:\Users\ricky\`, with the folder structure as `C:\Users\ricky\Downloads`.
