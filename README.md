@@ -1,6 +1,6 @@
 ### Summary
 
-* **Motivated by the market need for affordable elder care, this project developed a software-only fall detection system to overcome the cost and hardware limitations of existing solutions.
+* Motivated by the market need for affordable elder care, this project developed a software-only fall detection system to overcome the cost and hardware limitations of existing solutions.
 
 * **AI Core + Algorithm:** Integrated **YOLOv8** for pose estimation and engineered a **custom human keypoint–based algorithm** for real-time fall analysis, achieving **over 80% detection accuracy**.
 * **Full-Stack Development:** Built a **real-time monitoring system** with a **Python/OpenCV desktop client**, an **Android app**, and a **backend server** (HTTP/WebSocket + SQL), enabling **cross-platform caregiver alerts**.
